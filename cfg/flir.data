@@ -1,0 +1,4 @@
+classes=4train  = data/flir/train.list
+valid  = data/flir/test.list
+names = data/flir.names
+backup = backup
